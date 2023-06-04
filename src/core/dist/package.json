@@ -1,0 +1,11 @@
+{
+  "name": "jiqi-f-monitor",
+  "version": "1.2.1",
+  "description": "A Web monitor plugin.",
+  "main": "bundle.js",
+  "author": "Polyfill",
+  "license": "ISC",
+  "keywords": [
+    "web monitor"
+  ]
+}
